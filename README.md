@@ -1,9 +1,25 @@
-leaves I love creating new things
-book I’m currently mastering JavaScript
-cherry_blossom I enjoy some CSS and HTML as well!
-octopus Developer work experience 0
-Languages & Tools I Use:
-css3 html5 javascript vscode figma git
+<h1 align="center">👩🏻‍💻👽️ Hi, I’m Aldo</h1>
+<h2 align="center">Frontend developer enthusiast</h2>
 
-Let's Connect:
-me in linkedin
+
+- 🤖 I love creating new things
+- 📖 I’m currently mastering JavaScript
+- 🌸 I enjoy some CSS and HTML as well! 
+- 🐙 Developer work experience 0
+
+
+
+<h3>Languages & Tools I Use:</h3>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="reacjs" width="35" height="31"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+</p>
+
+<h3>Let's Connect:</h3>
+<p><a href="https://www.linkedin.com/in/aldo-monroy/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+
+<!-- ![Github stats](https://aldomonroy.github.io/aldomonroy/) -->
+
